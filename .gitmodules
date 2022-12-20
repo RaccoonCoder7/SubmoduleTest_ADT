@@ -1,0 +1,3 @@
+[submodule "Raw_ADT/Assets/Engine"]
+	path = Raw_ADT/Assets/Engine
+	url = https://github.com/RaccoonCoder7/SubModuleTest_AFW.git
